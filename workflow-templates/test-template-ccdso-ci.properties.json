@@ -1,0 +1,11 @@
+{
+    "name": "VA CCDSO Echo Hello Workflow",
+    "description": "VA CCDSO Echo Hello starter workflow for testing.",
+    "iconName": "example-icon",
+    "categories": [
+        "linux"
+    ],
+    "filePatterns": [
+        ".*\\.md$"
+    ]
+}
