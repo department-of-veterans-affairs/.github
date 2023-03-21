@@ -1,7 +1,3 @@
-# These settings are synced to GitHub by https://probot.github.io/apps/settings/
-teams:
-  - name: csoc-security-auditors
-    permission: ghas
 branches:
   - name: master
     # https://developer.github.com/v3/repos/branches/#update-branch-protection
