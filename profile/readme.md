@@ -4,6 +4,9 @@
   <img align="right" alt="VA Logo" src="./Wide-Full-Color-on-Light.png">
 </picture>
 
+&nbsp;
+&nbsp;
+
 ## GitHub Organization
 
 Welcome to the GitHub Organization for the U.S. Department of Veterans Affairs.
